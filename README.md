@@ -16,21 +16,24 @@ This Application is developed in PHP and jQuery. Upload Image of your choice, cr
 4. Run it
 
 ## Looks
-
-![Screenshot of To-Do App](https://cloud.githubusercontent.com/assets/15896579/20866280/8fbf4bf0-ba4f-11e6-9cc3-b18f46e4d9fe.PNG?raw=true "Screenshot of To-Do App")
+https://cloud.githubusercontent.com/assets/15896579/24821989/9a5f1d48-1c0f-11e7-81f6-2c0098555a39.png?raw=true "Screenshot of Image Cropper - Page1")
 <br/><br/><br/>
 
-![Screenshot of To-Do App](https://cloud.githubusercontent.com/assets/15896579/20866278/8fb8b38a-ba4f-11e6-8920-6babb659800c.PNG?raw=true "Screenshot of To-Do App")
+![Screenshot of Image Cropper - Page2](https://cloud.githubusercontent.com/assets/15896579/24821992/a061cbfa-1c0f-11e7-80d8-4f9a7887f449.png?raw=true "Screenshot of Image Cropper - Page2")
 <br/><br/><br/>
 
-![Screenshot of To-Do App](https://cloud.githubusercontent.com/assets/15896579/20866279/8fbf3da4-ba4f-11e6-837b-5803cd7a7798.PNG?raw=true "Screenshot of To-Do App")
+![Screenshot of Image Cropper - Page3](https://cloud.githubusercontent.com/assets/15896579/24821995/a43073c6-1c0f-11e7-94a8-27242fb78210.png?raw=true "Screenshot of Image Cropper - Page3")
 <br/><br/><br/>
 
-![Screenshot of To-Do App](https://cloud.githubusercontent.com/assets/15896579/20866282/8fc07a7a-ba4f-11e6-9b4a-4ca2257720bd.PNG?raw=true "Screenshot of To-Do App")
+![Screenshot of Image Cropper - Page4](https://cloud.githubusercontent.com/assets/15896579/24822000/a6ea23dc-1c0f-11e7-9001-de77388a9800.png?raw=true "Screenshot of Image Cropper - Page4")
 <br/><br/><br/>
 
-![Screenshot of To-Do App](https://cloud.githubusercontent.com/assets/15896579/20866281/8fbf92ea-ba4f-11e6-93dd-e65eaa0cfab6.PNG?raw=true "Screenshot of To-Do App")
+![Screenshot of Image Cropper - Page5](https://cloud.githubusercontent.com/assets/15896579/24822006/a9a1023a-1c0f-11e7-86b6-9d2dce2e8eeb.png?raw=true "Screenshot of Image Cropper - Page5")
 <br/><br/><br/>
+
+![Screenshot of Image Cropper - Page6](https://cloud.githubusercontent.com/assets/15896579/24822008/ad15cb9e-1c0f-11e7-9146-61eb8a3bd370.png?raw=true "Screenshot of Image Cropper - Page6")
+<br/><br/><br/>
+
 ## License
 
 (The MIT License)
