@@ -1,12 +1,12 @@
-# Image Cropper with Touch Supprot Facility
+# Image Cropper with Touch Support Facility
 
 This Application is developed in PHP and jQuery. Upload Image of your choice, crop image on computer or touch devices and upload. Cropped Image is saved in folder
 
 ## Requirements
-- [jQuery)](https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.0.min.js)
-- [jquery.Jcrop.min.css)](https://cdnjs.cloudflare.com/ajax/libs/jquery-jcrop/2.0.4/css/Jcrop.css)
-- [jquery.Jcrop.min.js)](https://cdnjs.cloudflare.com/ajax/libs/jquery-jcrop/2.0.4/js/Jcrop.js)
-- [Font Awesome CSS File)](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css)
+- [jQuery](https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.0.min.js)
+- [jquery.Jcrop.min.css](https://cdnjs.cloudflare.com/ajax/libs/jquery-jcrop/2.0.4/css/Jcrop.css)
+- [jquery.Jcrop.min.js](https://cdnjs.cloudflare.com/ajax/libs/jquery-jcrop/2.0.4/js/Jcrop.js)
+- [Font Awesome CSS File](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css)
 
 ## Installation
 
