@@ -31,7 +31,7 @@ This Application is developed in PHP and jQuery. Upload Image of your choice, cr
 ![Screenshot of Image Cropper - Page5](https://cloud.githubusercontent.com/assets/15896579/24822006/a9a1023a-1c0f-11e7-86b6-9d2dce2e8eeb.png?raw=true "Screenshot of Image Cropper - Page5")
 <br/><br/><br/>
 
-![Screenshot of Image Cropper - Page6](https://cloud.githubusercontent.com/assets/15896579/24822008/ad15cb9e-1c0f-11e7-9146-61eb8a3bd370.png?raw=true "Screenshot of Image Cropper - Page6")
+![Cropped Image - Page6](https://cloud.githubusercontent.com/assets/15896579/24822008/ad15cb9e-1c0f-11e7-9146-61eb8a3bd370.png?raw=true "Cropped Image - Page6")
 <br/><br/><br/>
 
 ## License
